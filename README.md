@@ -1,4 +1,4 @@
-# Super Resolution with ESRGANs in Desktop Apps
+# TF_Upgrade_Image
 > Building the UI with Qt (Qt Creator) and writing the
 > logic in Python, getting the best of both worlds 💪
 
